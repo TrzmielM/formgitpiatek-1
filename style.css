@@ -1,10 +1,7 @@
 div {
-    background-color: yellow;
+	background-color: yellow;
 }
 
-body {
-    background-color: black;
-} /* do usuniecia */
 .title{
     font-family: 'DynaPuff', cursive;
 }
@@ -24,3 +21,20 @@ body {
 font-family: 'Anek Odia', sans-serif;
 font-weight: bold;
 }
+body {
+	background-color: black;
+}
+
+input[type='text'],
+[type='email'],
+[type='password'],
+[type='number'] {
+	border: none;
+	border-bottom: 3px solid green;
+	background-color: rgba(36, 189, 36, 0.3);
+}
+
+.title1, .title2, .title3, .title4 {
+color: white;
+  text-shadow: 1px 1px 2px black, 0 0 25px rgb(17, 255, 0), 0 0 5px rgb(221, 77, 10);
+    }
