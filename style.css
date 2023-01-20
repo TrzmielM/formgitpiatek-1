@@ -2,9 +2,28 @@ div {
 	background-color: yellow;
 }
 
+.title{
+    font-family: 'DynaPuff', cursive;
+}
+.nazwa{
+    font-family: 'Anek Odia', sans-serif;
+    font-weight: bold;
+}
+.email{
+    font-family: 'Anek Odia', sans-serif;
+    font-weight: bold;
+}
+.haslo{
+    font-family: 'Anek Odia', sans-serif;
+    font-weight: bold;
+}
+.doswiadczenie{
+font-family: 'Anek Odia', sans-serif;
+font-weight: bold;
+}
 body {
 	background-color: black;
-} /* do usuniecia */
+}
 
 input[type='text'],
 [type='email'],
@@ -14,8 +33,6 @@ input[type='text'],
 	border-bottom: 3px solid green;
 	background-color: rgba(36, 189, 36, 0.3);
 }
-
-
 
 .title1, .title2, .title3, .title4 {
 color: white;
