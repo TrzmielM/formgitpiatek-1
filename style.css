@@ -1,5 +1,18 @@
 div {
-    background-color: yellow;
+	background-color: yellow;
+}
+
+body {
+	background-color: black;
+} /* do usuniecia */
+
+input[type='text'],
+[type='email'],
+[type='password'],
+[type='number'] {
+	border: none;
+	border-bottom: 3px solid green;
+	background-color: rgba(36, 189, 36, 0.3);
 }
 
 
