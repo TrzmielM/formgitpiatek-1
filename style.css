@@ -5,3 +5,22 @@ div {
 body {
     background-color: black;
 } /* do usuniecia */
+.title{
+    font-family: 'DynaPuff', cursive;
+}
+.nazwa{
+    font-family: 'Anek Odia', sans-serif;
+    font-weight: bold;
+}
+.email{
+    font-family: 'Anek Odia', sans-serif;
+    font-weight: bold;
+}
+.haslo{
+    font-family: 'Anek Odia', sans-serif;
+    font-weight: bold;
+}
+.doswiadczenie{
+font-family: 'Anek Odia', sans-serif;
+font-weight: bold;
+}
